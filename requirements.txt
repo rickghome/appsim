@@ -1,0 +1,8 @@
+asyncio
+uuid
+dataclasses
+textual>=0.40.0
+pytest>=7.0.0
+pytest-asyncio>=0.21.0
+pytest-cov>=4.1.0
+Faker>=19.0.0
